@@ -24,3 +24,21 @@ Pickle (for saving ML model)
 
 Objective:
 To demonstrate the use of AI/ML in HR analytics and salary classification for workforce planning.
+
+
+OUTPUTS:
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-22 200056" src="https://github.com/user-attachments/assets/1460c7c5-2074-4ae4-9920-0e0a7d7449ba" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-22 200215" src="https://github.com/user-attachments/assets/ce913e9e-0b0d-4d70-895c-885f55a04f71" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-22 200326" src="https://github.com/user-attachments/assets/3894ad33-9b06-40c6-9e55-ad9f1bfca6c7" />
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-22 200432" src="https://github.com/user-attachments/assets/936c03df-696a-4afb-bed6-c521b64940b5" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-22 200447" src="https://github.com/user-attachments/assets/a6dbb870-8a22-48e2-8a28-b7fdbbe67d2d" />
+
+
+
+
